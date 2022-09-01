@@ -1,0 +1,17 @@
+// home-hub
+//     - update news
+//     - update continue listening
+// live-radio
+//     - an action
+//     - some other action
+// podcasts
+//     - new episode
+//     - something else
+
+{
+    "feature": "home-hub",
+    "action": "update-continue-listening",
+    "payload": { 
+        "some": 1 
+    }
+}
